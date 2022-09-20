@@ -11,17 +11,24 @@ After one year of transition from Engineering to Data Analysis, since June 2020 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 # # 🛠 Skills
-  HARD SKILLS         
-  Python              
-  Pandas              
-  SQL                 
+  HARD SKILLS 
+  
+  Python  
+  
+  Pandas 
+  
+  SQL     
+  
   Tableau             
   
   SOFT SKILLS
   
   Effective Communication
+  
   Customer focus
+  
   Problem solving
+  
   Interpersonal skills
   
 # # 👩‍💻 I'm currently working on...
