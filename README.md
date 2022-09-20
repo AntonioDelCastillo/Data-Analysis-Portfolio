@@ -1,5 +1,5 @@
 
-# Antonio Del Castillo - Data Analysis Portfolio
+# # Hi, I'm Antonio! 👋 - Data Analysis Portfolio
 
 Hi, I'm Antonio! 
 
@@ -10,3 +10,11 @@ After one year of transition from Engineering to Data Analysis, since June 2020 
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
+# # 🛠 Skills
+Javascript, HTML, CSS...
+
+# # 👩‍💻 I'm currently working on...
+
+# # 🧠 I'm currently learning...
+
+# # 📫 How to reach me...
