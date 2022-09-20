@@ -17,12 +17,6 @@ This is a repository to showcase skills, share projects and track my progress in
   SQL                 
   Tableau             
   
-  SOFT SKILLS
-  Effective Communication
-  Customer focus
-  Problem solving
-  Interpersonal skills
-  
 # # 👩‍💻 I'm currently working on...
     
 # # 🧠 I'm currently learning...
