@@ -22,6 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
   
 # # 👩‍💻 I'm currently working on...
+[Work about suicide and possible causes]
     
 # # 🧠 I'm currently learning...
 
