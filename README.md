@@ -20,11 +20,8 @@ This is a repository to showcase skills, share projects and track my progress in
   SOFT SKILLS
   
   Effective Communication
-  
   Customer focus
-  
   Problem solving
-  
   Interpersonal skills
   
 # # 👩‍💻 I'm currently working on...
