@@ -24,10 +24,11 @@ This is a repository to showcase skills, share projects and track my progress in
 * Interpersonal skills
 
 | **HARD SKILLS**    | **SOFT SKILLS**   |
-| ------------- |:-------------:| 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |  
-| zebra stripes | are neat      |   
+| :-------------: |:-------------:| 
+| Python      | Effective Communication | 
+| Pandas      | Customer focus     |  
+| SQL | Problem solving   |   
+| Tableau | Interpersonal skills   |   
   
 # # 👩‍💻 I'm currently working on...
     
