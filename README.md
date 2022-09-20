@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
   
 # # 👩‍💻 I'm currently working on...
-[Work about suicide and possible causes] (https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/C%C3%A1lculos%20suicidio.ipynb)
+[Work about suicide and possible causes](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/C%C3%A1lculos%20suicidio.ipynb)
     
 # # 🧠 I'm currently learning...
 
