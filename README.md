@@ -22,6 +22,12 @@ This is a repository to showcase skills, share projects and track my progress in
 * Customer focus
 * Problem solving
 * Interpersonal skills
+
+| **HARD SKILLS**    | **SOFT SKILLS**   |
+| ------------- |:-------------:| 
+| col 3 is      | right-aligned | 
+| col 2 is      | centered      |  
+| zebra stripes | are neat      |   
   
 # # 👩‍💻 I'm currently working on...
     
