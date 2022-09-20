@@ -1,5 +1,5 @@
 
- # Hi, I'm Antonio! 👋 - Data Analysis Portfolio
+# Hi, I'm Antonio! 👋 - Data Analysis Portfolio
 
 Hi, I'm Antonio! 
 
@@ -10,7 +10,7 @@ After one year of transition from Engineering to Data Analysis, since June 2020 
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-# # 🛠 Skills
+# 🛠 Skills
 | **HARD SKILLS**    | **SOFT SKILLS**   |
 | :-------------: |:-------------:| 
 | Python      | Effective Communication | 
@@ -21,12 +21,12 @@ This is a repository to showcase skills, share projects and track my progress in
 | SciKit Learn | Time management   |   
 
   
-# # 👩‍💻 I'm currently working on...
+# 👩‍💻 I'm currently working on...
 [Work about suicide and possible causes](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/C%C3%A1lculos%20suicidio.ipynb)
     
-# # 🧠 I'm currently learning...
+# 🧠 I'm currently learning...
 
-# # 📫 How to reach me...
+# 📫 How to reach me...
 
   adelcastillogarzon@gmail.com
   
