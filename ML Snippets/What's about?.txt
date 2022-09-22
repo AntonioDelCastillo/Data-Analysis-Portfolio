@@ -1,13 +1,26 @@
 Hi!
 
-      `'::::.
-        _____A_
-       /      /\
-    __/__/\__/  \___
----/__|" '' "| /___/\----
-   |''|"'||'"| |' '||
-   `""`""))""`"`""""`
-   
+                             (   )
+                          (    )
+                           (    )
+                          (    )
+                            )  )
+                           (  (                  /\
+                            (_)                 /  \  /\
+                    ________[_]________      /\/    \/  \
+           /\      /\        ______    \    /   /\/\  /\/\
+          /  \    //_\       \    /\    \  /\/\/    \/    \
+   /\    / /\/\  //___\       \__/  \    \/
+  /  \  /\/    \//_____\       \ |[]|     \
+ /\/\/\/       //_______\       \|__|      \
+/      \      /XXXXXXXXXX\                  \
+        \    /_I_II  I__I_\__________________\
+               I_I|  I__I_____[]_|_[]_____I
+               I_II  I__I_____[]_|_[]_____I
+               I II__I  I     XXXXXXX     I
+            ~~~~~"   "~~~~~~~~~~~~~~~~~~~~~~~~
+            
+            
 Not a single house will stand up high without solid foundations. 
 And here are the most important pillars that will hold my future proyects.
 A small batch of the basic skills that I learned early in my career as Data Analyst.
