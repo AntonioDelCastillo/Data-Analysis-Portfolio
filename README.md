@@ -42,12 +42,12 @@ After that new adquired hobby, I joined an Applied Statistics Master and I fell 
 
 Some of my soft skills include:
 
-*Effective Communication
-*Customer focus 
-*Problem solving
-*Creativity
-*Storytelling
-*Time management
+* Effective Communication
+* Customer focus 
+* Problem solving
+* Creativity
+* Storytelling
+* Time management
 
 # 👩‍💻 I'm currently working on...
 [Work about suicide and possible causes (Currently in Spanish)](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/C%C3%A1lculos%20suicidio.ipynb)
