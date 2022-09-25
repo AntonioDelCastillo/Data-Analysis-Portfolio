@@ -12,13 +12,13 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Index:
 
-* [How I started?](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/README.md# 🏃 A bit about myself)
-* [What tools I use?](# 🛠 Skills) (Short answer: SQL, Python, Pandas, SciKit Learn, Seaborn and Tableau)
-* [Soft skills](# **Soft skills** )
-* [Current works](# 👩‍💻 I'm currently working on...)
-* [Current skill learning](# 🧠 I'm currently learning...)
-* [How to contact me?](# 📫 How to reach me...)
-
+- [🏃 A bit about myself:](#---a-bit-about-myself-)
+- [🛠 Skills](#---skills)
+- [**Soft skills**](#--soft-skills--)
+- [👩‍💻 I'm currently working on...](#------i-m-currently-working-on)
+- [🧠 I'm currently learning...](#---i-m-currently-learning)
+- [📫 How to reach me...](#---how-to-reach-me)
+- 
 # 🏃 A bit about myself:
 
 While I was in my Calculus II lecture in my Mechanical Engineering Grade, I heard Ms. Ruiz say: "Statistics is not maths". 
