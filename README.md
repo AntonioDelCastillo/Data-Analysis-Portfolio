@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Index:
 
-* [How I started?](# 🏃 A bit about myself)
+* [How I started?](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/README.md# 🏃 A bit about myself)
 * [What tools I use?](# 🛠 Skills) (Short answer: SQL, Python, Pandas, SciKit Learn, Seaborn and Tableau)
 * [Soft skills](# **Soft skills** )
 * [Current works](# 👩‍💻 I'm currently working on...)
