@@ -25,6 +25,7 @@ This is a repository to showcase skills, share projects and track my progress in
 [Work about suicide and possible causes (Currently in Spanish)](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/C%C3%A1lculos%20suicidio.ipynb)
     
 # 🧠 I'm currently learning...
+[Statistical Techniques in Tableau](https://www.datacamp.com/courses/statistical-techniques-in-tableau)
 
 # 📫 How to reach me...
 
