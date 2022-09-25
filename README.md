@@ -1,4 +1,4 @@
-![github-header-image (2)](https://user-images.githubusercontent.com/114013508/192169162-5b3bc12a-9484-4e5a-84a8-b21b7b69d501.png)
+![github-header-image (3)](https://user-images.githubusercontent.com/114013508/192169255-2ceb99bd-8ce8-480f-83bf-efdfda190ef3.png)
 
 # Hi, I'm Antonio! 👋 - Data Analysis Portfolio
 
