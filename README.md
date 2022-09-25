@@ -25,16 +25,30 @@ No matter if it was a cooling measure from a laser sensor from my Thermodynamics
 
 
 # 🛠 Skills
-| **HARD SKILLS**    | **SOFT SKILLS**   |
-| :-------------: |:-------------:| 
-| Python      | Effective Communication | 
-| Pandas    | Customer focus     |  
-| SQL | Problem solving   |   
-| Tableau | Creativity   |   
-| Seaborn | Storytelling   |   
-| SciKit Learn | Time management   |   
+After that new adquired hobby, I joined an Applied Statistics Master and I fell down the Data Science rabbit hole, becoming passionated about:
 
+***¿How do I get the information I need fron this huge database?***
+  To answer this question, I enroled a few Youtube and online courses about SQL. 
+  [You can find here some of my work on this topic](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/tree/main/SQL) 
   
+***Alright, I have the info, but now... ¿How do I extract value from it?***
+  First I felt pretty overwhelmed by the amount of resources availables in the web, but I ended using Python as coding language.
+  I knew how it worked due to some other side projects I made using the [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) book by Al           Sweigart so it was a smooth start. 
+  
+  Then I started learning how to use the basic tools for any Data Analist such as Pandas and SciKit Learn, improving both the speed and quality of my analysis,           compared to the speed that I could achieve using VBA in excel.    
+    
+***Okay, but not everyone likes numbers. ¿Can you do something about it?***
+    When I wanted to show my results to other people, they might not be able to understand how could affect some of the subtle changes in the confidence intervals or deviations, so I learned about making impacful presentations using my own charts, using both Seaborn for the Notebooks and Tableau for some specific dashboards. 
+
+Some of my soft skills include:
+
+*Effective Communication
+*Customer focus 
+*Problem solving
+*Creativity
+*Storytelling
+*Time management
+
 # 👩‍💻 I'm currently working on...
 [Work about suicide and possible causes (Currently in Spanish)](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/C%C3%A1lculos%20suicidio.ipynb)
     
