@@ -30,6 +30,7 @@ After that new adquired hobby, I joined an Applied Statistics Master and I fell 
 ***¿How do I get the information I need fron this huge database?***
 
   To answer this question, I enroled a few Youtube and online courses about SQL. 
+  
   [You can find here some of my work on this topic](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/tree/main/SQL) 
   
 ***Alright, I have the info, but now... ¿How do I extract value from it?***
