@@ -12,12 +12,12 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Index:
 
-* [How I started?]
-* [What tools I use?]
-* [Soft skills]
-* [Current works]
-* [Current skill learning]
-* [How to contact me?]
+* How I started?
+* What tools I use?
+* Soft skills
+* Current works
+* Current skill learning
+* How to contact me?
 
 # 🏃 A bit about myself:
 
