@@ -40,7 +40,7 @@ I knew how it worked due to some other side projects I made using the [Automate 
   
 Then I started learning how to use the basic tools for any Data Analyst such as Pandas and SciKit Learn, improving both the speed and quality of my analysis, compared to the speed that I could achieve using VBA in Excel.  
     
-***Okay, but not everyone likes numbers. ¿Can you do something about it?***
+***Okay, but not everyone likes numbers. ¿How could I help them?***
 
   When I wanted to show my results to other people, they might not be able to understand how could affect some of the subtle changes in the confidence intervals or deviations, so I learned about making impactful presentations using my own charts, using both Seaborn for the Notebooks and Tableau for some specific dashboards. 
 
