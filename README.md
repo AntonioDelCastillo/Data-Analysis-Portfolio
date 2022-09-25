@@ -41,7 +41,7 @@ After that new adquired hobby, I joined an Applied Statistics Master and I fell 
     
 ***Okay, but not everyone likes numbers. ¿Can you do something about it?***
 
-    When I wanted to show my results to other people, they might not be able to understand how could affect some of the subtle changes in the confidence intervals or deviations, so I learned about making impacful presentations using my own charts, using both Seaborn for the Notebooks and Tableau for some specific dashboards. 
+  When I wanted to show my results to other people, they might not be able to understand how could affect some of the subtle changes in the confidence intervals or       deviations, so I learned about making impacful presentations using my own charts, using both Seaborn for the Notebooks and Tableau for some specific dashboards. 
 
 Some of my soft skills include:
 
