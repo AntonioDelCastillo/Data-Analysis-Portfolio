@@ -12,12 +12,12 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Index:
 
-* How I started?
-* What tools I use?
-* Soft skills
-* Current works
-* Current skill learning
-* How to contact me?
+* [How I started?](# 🏃 A bit about myself)
+* [What tools I use?](# 🛠 Skills) (Short answer: SQL, Python, Pandas, SciKit Learn, Seaborn and Tableau)
+* [Soft skills](# **Soft skills** )
+* [Current works](# 👩‍💻 I'm currently working on...)
+* [Current skill learning](# 🧠 I'm currently learning...)
+* [How to contact me?](# 📫 How to reach me...)
 
 # 🏃 A bit about myself:
 
@@ -34,36 +34,45 @@ No matter if it was a cooling measure from a laser sensor from my Thermodynamics
 
 
 # 🛠 Skills
-After that newly acquired hobby, I joined an Applied Statistics Master and I fell down the Data Science rabbit hole, becoming passionate about:
+After that newly acquired hobby, I joined an Applied Statistics Master and I fell down the **Data Science** rabbit hole, becoming passionate about:
 
 ***How do I get the information I need fron this huge database?***
 
-  To answer this question, I enrolled in a few Youtube and online courses about SQL.
+  To answer this question, I enrolled in a few Youtube and online courses about **SQL**.
   
   [You can find here some of my work on this topic](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/tree/main/SQL) 
   
 ***Alright, I have the info, but now... How do I extract value from it?***
 
-First I felt pretty overwhelmed by the number of resources available on the web, but I ended up using Python as a coding language. 
+First I felt pretty overwhelmed by the number of resources available on the web, but I ended up using **Python** as a coding language. 
 I knew how it worked due to some other side projects I made using the [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) book by Al Sweigart so it was a smooth start. 
   
-Then I started learning how to use the basic tools for any Data Analyst such as Pandas and SciKit Learn, improving both the speed and quality of my analysis, compared to the speed that I could achieve using VBA in Excel.  
+Then I started learning how to use the basic tools for any Data Analyst such as __Pandas and SciKit Learn__, improving both the speed and quality of my analysis, compared to the speed that I could achieve using VBA in Excel.  
 
 
-[Here you can appreciate my first steps with Pandas](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/Data%20Analysis/Pandas%20Basics.ipynb)
+[Here you can appreciate my first steps with **Pandas**](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/Data%20Analysis/Pandas%20Basics.ipynb)
 
 
-[And here we can find more advanced applications of both Pandas and SciKit Learn](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/C%C3%A1lculos%20suicidio.ipynb)
+[And here we can find more advanced applications of both **Pandas and SciKit Learn**](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/C%C3%A1lculos%20suicidio.ipynb)
     
 ***Okay, but not everyone likes numbers. How could I help them?***
 
-  When I wanted to show my results to other people, they might not be able to understand how could affect some of the subtle changes in the confidence intervals or deviations, so I learned about making impactful presentations using my own charts, using both Seaborn for the Notebooks and Tableau for some specific dashboards. 
+  When I wanted to show my results to other people, they might not be able to understand how could affect some of the subtle changes in the confidence intervals or deviations, so I learned about making impactful presentations using my own charts, using both **Seaborn** for the Notebooks and **Tableau** for some specific dashboards. 
   
 ![image](https://user-images.githubusercontent.com/114013508/192167665-f3db660a-34fb-4c81-8699-a4a80d93555b.png)
 ![image](https://user-images.githubusercontent.com/114013508/192167759-dced3637-fb7b-40f6-9bb3-0dd6718c3b03.png)
 
+***And what about Machine Learning?***
 
-Some of my soft skills include:
+It was a matter of time until I became seduced by the potential of Machine Learning. So for my side projects, I had to learn some techniques such as: 
+
+* [Linear Regression](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/ML%20Snippets/Linear%20Regression.ipynb)
+* [Logistic Regression](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/ML%20Snippets/Logistic%20Regression.ipynb)
+* [K Nearest Neighbors](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/ML%20Snippets/%20K%20Nearest%20Neighbors%20(KNN).ipynb)
+* [Decision Trees and Random Forests](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/ML%20Snippets/Decision%20Trees%20and%20Random%20Forests.ipynb)
+* [Support Vector Machines and Parameter Tuning](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/ML%20Snippets/Support%20Vector%20Machines.ipynb)
+
+# **Soft skills** 
 
 * Effective Communication
 * Customer focus 
