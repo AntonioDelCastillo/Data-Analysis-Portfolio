@@ -12,13 +12,13 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Index:
 
-- [🏃 A bit about myself:](#---a-bit-about-myself-)
-- [🛠 Skills](#---skills)
-- [**Soft skills**](#--soft-skills--)
-- [👩‍💻 I'm currently working on...](#------i-m-currently-working-on)
-- [🧠 I'm currently learning...](#---i-m-currently-learning)
-- [📫 How to reach me...](#---how-to-reach-me)
-- 
+* [How I started?]
+* [What tools I use?]
+* [Soft skills]
+* [Current works]
+* [Current skill learning]
+* [How to contact me?]
+
 # 🏃 A bit about myself:
 
 While I was in my Calculus II lecture in my Mechanical Engineering Grade, I heard Ms. Ruiz say: "Statistics is not maths". 
