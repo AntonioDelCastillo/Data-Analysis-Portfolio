@@ -39,10 +39,19 @@ First I felt pretty overwhelmed by the number of resources available on the web,
 I knew how it worked due to some other side projects I made using the [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) book by Al Sweigart so it was a smooth start. 
   
 Then I started learning how to use the basic tools for any Data Analyst such as Pandas and SciKit Learn, improving both the speed and quality of my analysis, compared to the speed that I could achieve using VBA in Excel.  
+
+
+[Here you can appreciate my first steps with Pandas](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/Data%20Analysis/Pandas%20Basics.ipynb)
+
+
+[And here we can find more advanced applications of both Pandas and SciKit Learn](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/C%C3%A1lculos%20suicidio.ipynb)
     
 ***Okay, but not everyone likes numbers. ¿How could I help them?***
 
   When I wanted to show my results to other people, they might not be able to understand how could affect some of the subtle changes in the confidence intervals or deviations, so I learned about making impactful presentations using my own charts, using both Seaborn for the Notebooks and Tableau for some specific dashboards. 
+  ![image](https://user-images.githubusercontent.com/114013508/192167665-f3db660a-34fb-4c81-8699-a4a80d93555b.png)
+![image](https://user-images.githubusercontent.com/114013508/192167686-f8f91d95-fc2b-41a2-a443-d43a2a810a33.png)
+
 
 Some of my soft skills include:
 
