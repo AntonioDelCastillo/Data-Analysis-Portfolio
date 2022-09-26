@@ -13,12 +13,12 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Index:
 
-* How I started?
+* [How I started?](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/README.md#-a-bit-about-myself)
 * [What tools I use?](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/README.md#-skills)
-* Soft skills
-* Current works
-* Current skill learning
-* How to contact me?
+* [Soft skills]()
+* [Current works]()
+* [Current skill learning]()
+* [How to contact me?]()
 
 # 🏃 A bit about myself:
 
@@ -73,7 +73,7 @@ It was a matter of time until I became seduced by the potential of Machine Learn
 * [Decision Trees and Random Forests](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/ML%20Snippets/Decision%20Trees%20and%20Random%20Forests.ipynb)
 * [Support Vector Machines and Parameter Tuning](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/ML%20Snippets/Support%20Vector%20Machines.ipynb)
 
-# **Soft skills** 
+# ☕ Soft skills 
 
 * Effective Communication
 * Customer focus 
