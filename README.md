@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 # Index:
 
 * [How I started?](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/README.md#-a-bit-about-myself)
-* [What tools I use?](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/README.md#-skills)
+* [What tools I use?](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/README.md#-skills) (Short answer: SQL, Python, Pandas, SciKit Learn, Seaborn and Tableau)
 * [Soft skills](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio#-soft-skills)
 * [Current works](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio#-im-currently-working-on)
 * [Current skill learning](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio#-im-currently-learning)
