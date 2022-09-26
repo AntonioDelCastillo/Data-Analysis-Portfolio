@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 # Index:
 
 * How I started?
-* What tools I use?
+* [What tools I use?](https://github.com/AntonioDelCastillo/Data-Analysis-Portfolio/blob/main/README.md#-skills)
 * Soft skills
 * Current works
 * Current skill learning
